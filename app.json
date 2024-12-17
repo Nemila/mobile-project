@@ -32,6 +32,19 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "assets/fonts/outfit/Outfit-Light.ttf",
+            "assets/fonts/outfit/Outfit-Regular.ttf",
+            "assets/fonts/outfit/Outfit-Medium.ttf",
+            "assets/fonts/outfit/Outfit-SemiBold.ttf",
+            "assets/fonts/outfit/Outfit-Bold.ttf",
+            "assets/fonts/outfit/Outfit-ExtraBold.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
